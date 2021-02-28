@@ -1,0 +1,7 @@
+// handles all promises in the route handler middleware
+// removes the need for try/catch blocks in each of our async functions
+module.exports = (fn) => {
+  return (req, res, next) => {
+    fn(req, res, next).catch(next);
+  };
+};

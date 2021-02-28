@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Your Perfect Morning",
+    "duration": 30,
+    "averageRatings": null,
+    "numRatings": 0,
+    "price": 5,
+    "summary": "Create your ideal morning ritual",
+    "description": "Looking to bring shine back into your morning routine? Typically comes with a beautiful visual element like a spreadsheet or moodboard to help you stick to your ritual/routine."
+  },
+  {
+    "name": "Dream Closet Moodboard",
+    "duration": 30,
+    "averageRatings": null,
+    "numRatings": 0,
+    "price": 5,
+    "summary": "Plan your perfect style",
+    "description": "Thinking of trying a new style but can't decide how? This bite comes with a beautiful moodboard to help you manifest your future aesthetic!"
+  },
+  {
+    "name": "Your Main Character Outfit",
+    "duration": 20,
+    "averageRatings": null,
+    "numRatings": 0,
+    "price": 4,
+    "summary": "Find your very own main character outfit",
+    "description": "Allow yourself to be in your most authentic and powerful state. Typically comes with a beautiful visual element like a spreadsheet or moodboard to help your outfit feel special!"
+  },
+  {
+    "name": "Try Something New",
+    "duration": 15,
+    "averageRatings": null,
+    "numRatings": 0,
+    "price": 3,
+    "summary": "Brainstorm something new to try",
+    "description": "Break out of the mold with this exciting bite! Typically comes with a planning session and future support to help you go through with it."
+  },
+  {
+    "name": "Your Portable Safe Space",
+    "duration": 20,
+    "averageRatings": null,
+    "numRatings": 0,
+    "price": 4,
+    "summary": "Plan and create a safe space to-go kit, so you can feel secure wherever and whenever! Typically comes with a beautiful visual element like a spreadsheet or moodboard to help you build your kit, as well as support in finding the items online or in stores."
+  },
+  {
+    "name": "Super Secret Bite",
+    "duration": 20,
+    "averageRatings": null,
+    "numRatings": 0,
+    "price": 4,
+    "summary": "This bite deals with the edge case of secret bites in our database",
+    "secretBite": true
+  }
+]
