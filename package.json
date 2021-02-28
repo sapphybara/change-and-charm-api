@@ -1,0 +1,16 @@
+{
+  "name": "change-and-charm-api",
+  "version": "1.0.0",
+  "description": "API for makeover business Change & Charm",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "repository": "git+https://github.com/wswiser101/change-and-charm-api.git",
+  "author": "Warren Wiser <wswiser101@utexas.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wswiser101/change-and-charm-api/issues"
+  },
+  "homepage": "https://github.com/wswiser101/change-and-charm-api#readme"
+}
